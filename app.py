@@ -713,7 +713,7 @@ def display_header(selected_team):
                             dbc.Col(html.Div(html.Img(src=wordmark, height='auto'), style={'margin-top': 10}), width=4,
                                     style={'align': 'center', 'padding': '20px'}),  # LEFT-CENTER WORDMARK
                             dbc.Col(html.Span(html.H1('Yearly Performances',
-                                                      style={'color': 'white', 'fontSize': '72px',
+                                                      style={'color': 'white', 'fontSize': '42px',
                                                              'textAlign': 'start'})), width=7,
                                     style={'padding': '10px'})  # TEXT
                         ]),
@@ -739,7 +739,7 @@ def display_header(selected_team):
                             dbc.Col(html.Div(html.Img(src=logo, height=80)), width=5,
                                     style={'align': 'center', 'padding': '10px'}),  # LEFT SIDE LOGO
                             dbc.Col(html.Span(html.H1('NHL Yearly Performances',
-                                                      style={'color': 'white', 'fontSize': '72px',
+                                                      style={'color': 'white', 'fontSize': '42px',
                                                              'textAlign': 'start'})), width=7,
                                     style={'padding': '10px'})  # TEXT
                         ]),
@@ -762,18 +762,21 @@ def display_header(selected_team):
         logo, wordmark, logo_light, bg_color, sec_color, th_color, url = get_colors_logo(df_team_colors_filtered)
 
         # USE CARD FOR STYLING
-        header_output = dbc.Card(
+        footer_output = dbc.Card(
             dbc.CardBody([
                 html.Div([
                     dbc.Row(
                         [
+
                             dbc.Col(html.Span(html.P('Ronnie Pinnell | MIS667 Final',
                                                      style={'color': 'white', 'fontSize': '22px',
-                                                            'textAlign': 'start'})), width=7, style={'padding': '10px'})
+                                                            'textAlign': 'start'})), width=11, style={'padding': '10px'}),
                             # TEXT
+                        #dbc.Col(html.Div(html.Img(src='https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png', height='25px')), width=1,
+                                    #style={'align': 'right', 'padding': '10px'})  # LEFT SIDE LOGO
                         ]),
                 ])
-            ]), color=sec_color
+            ]), color=bg_color
         )
 
 
@@ -786,7 +789,7 @@ def display_header(selected_team):
         logo, wordmark, logo_light, bg_color, sec_color, th_color, url = get_colors_logo(df_team_colors_filtered)
 
         # USE CARD FOR STYLING
-        header_output = dbc.Card(
+        footer_output = dbc.Card(
             dbc.CardBody([
                 html.Div([
                     dbc.Row(
@@ -800,7 +803,7 @@ def display_header(selected_team):
             ]), color=sec_color
         )
 
-    return header_output
+    return footer_output
 
 
 # ---- MAIN CALLBACK --------------------------------------------------------------------------------------------------------------------------------
