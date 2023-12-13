@@ -1,0 +1,304 @@
+﻿Pos,Team,Conference,Division,team_id,GP,W,L,OTL,RW,GF,GA,GD,PCT,season,Playoff Seed,PlayoffRound,Playoffs,RoundCategory,PlayoffRound_Cat,Playoff Seed_Cat,PlayoffSeedIndex
+1,Boston Bruins,East,Atlantic,6,70,44,14,12,38,227,174,53,100,20192020,E4,R2,Y,3,Round 2 Loser,Conference 4 Seed,6
+2,Tampa Bay Lightning,East,Atlantic,14,70,43,21,6,35,245,195,50,92,20192020,E2,SCW,Y,6,Stanley Cup Winner,Conference 2 Seed,8
+1,Washington Capitals,East,Metropolitan,15,69,41,20,8,31,240,215,25,90,20192020,E3,R1,Y,2,Round 1 Loser,Conference 3 Seed,7
+2,Philadelphia Flyers,East,Metropolitan,4,69,41,21,7,31,232,196,36,89,20192020,E1,R2,Y,3,Round 2 Loser,Conference 1 Seed,9
+3,Pittsburgh Penguins,East,Metropolitan,5,69,40,23,6,29,224,196,28,86,20192020,E5,QR,Y,2,Qualifying Round Loser,Conference 5 Seed,5
+4,Carolina Hurricanes,East,Metropolitan,12,68,38,25,5,27,222,193,29,81,20192020,E6,R1,Y,2,Round 1 Loser,Conference 6 Seed,4
+5,New York Islanders,East,Metropolitan,2,68,35,23,10,24,192,193,−1,80,20192020,E7,CF,Y,4,Conference Final Loser,Conference 7 Seed,3
+3,Toronto Maple Leafs,East,Atlantic,10,70,36,25,9,28,238,227,11,81,20192020,E8,QR,Y,2,Qualifying Round Loser,Conference 8 Seed,2
+6,Columbus Blue Jackets,East,Metropolitan,29,70,33,22,15,25,180,187,−7,81,20192020,E9,R1,Y,2,Round 1 Loser,Qualifying Round,1
+4,Florida Panthers,East,Atlantic,13,69,35,26,8,30,231,228,3,78,20192020,E10,QR,Y,2,Qualifying Round Loser,Qualifying Round,1
+7,New York Rangers,East,Metropolitan,3,70,37,28,5,31,234,222,12,79,20192020,E11,QR,Y,2,Qualifying Round Loser,Qualifying Round,1
+5,Montreal Canadiens,East,Atlantic,8,71,31,31,9,19,212,221,−9,71,20192020,E12,R1,Y,2,Round 1 Loser,Qualifying Round,1
+6,Buffalo Sabres,East,Atlantic,7,69,30,31,8,22,195,217,−22,68,20192020,NONE,NONE,N,1,NONE,NONE,0
+8,New Jersey Devils,East,Metropolitan,1,69,28,29,12,22,189,230,−41,68,20192020,NONE,NONE,N,1,NONE,NONE,0
+7,Ottawa Senators,East,Atlantic,9,71,25,34,12,18,191,243,−52,62,20192020,NONE,NONE,N,1,NONE,NONE,0
+8,Detroit Red Wings,East,Atlantic,17,71,17,49,5,13,145,267,−122,39,20192020,NONE,NONE,N,1,NONE,NONE,0
+1,St. Louis Blues,West,Central,19,71,42,19,10,33,225,193,32,94,20192020,W4,R1,Y,2,Round 1 Loser,Conference 4 Seed,6
+2,Colorado Avalanche,West,Central,21,70,42,20,8,37,237,191,46,92,20192020,W2,R1,Y,2,Round 1 Loser,Conference 2 Seed,8
+1,Vegas Golden Knights,West,Pacific,54,71,39,24,8,30,227,211,16,86,20192020,W1,CF,Y,4,Conference Final Loser,Conference 1 Seed,9
+3,Dallas Stars,West,Central,25,69,37,24,8,26,180,177,3,82,20192020,W3,SCL,Y,5,Stanley Cup Loser,Conference 3 Seed,7
+2,Edmonton Oilers,West,Pacific,22,71,37,25,9,31,225,217,8,83,20192020,W5,QR,Y,2,Qualifying Round Loser,Conference 5 Seed,5
+4,Nashville Predators,West,Central,18,69,35,26,8,28,215,217,−2,78,20192020,W6,QR,Y,2,Qualifying Round Loser,Conference 6 Seed,4
+3,Vancouver Canucks,West,Pacific,23,69,36,27,6,27,228,217,11,78,20192020,W7,R2,Y,3,Round 2 Loser,Conference 7 Seed,3
+4,Calgary Flames,West,Pacific,20,70,36,27,7,25,210,215,−5,79,20192020,W8,R1,Y,2,Round 1 Loser,Conference 8 Seed,2
+5,Winnipeg Jets,West,Central,52,71,37,28,6,30,216,203,13,80,20192020,W9,QR,Y,2,Qualifying Round Loser,Qualifying Round,1
+6,Minnesota Wild,West,Central,30,69,35,27,7,30,220,220,0,77,20192020,W10,QR,Y,2,Qualifying Round Loser,Qualifying Round,1
+5,Arizona Coyotes,West,Pacific,53,70,33,29,8,26,195,187,8,74,20192020,W11,R1,Y,2,Round 1 Loser,Qualifying Round,1
+7,Chicago Blackhawks,West,Central,16,70,32,30,8,23,212,218,−6,72,20192020,W12,R1,Y,2,Round 1 Loser,Qualifying Round,1
+6,Anaheim Ducks,West,Pacific,24,71,29,33,9,20,187,226,−39,67,20192020,NONE,NONE,N,1,NONE,NONE,0
+7,Los Angeles Kings,West,Pacific,26,70,29,35,6,21,178,212,−34,64,20192020,NONE,NONE,N,1,NONE,NONE,0
+8,San Jose Sharks,West,Pacific,28,70,29,36,5,22,182,226,−44,63,20192020,NONE,NONE,N,1,NONE,NONE,0
+1,Washington Capitals,East,Metropolitan,15,82,48,26,8,44,278,249,29,104,20182019,EM1,R1,Y,2,Round 1 Loser,Division 1 Seed,14
+2,New York Islanders,East,Metropolitan,2,82,48,27,7,43,228,196,32,103,20182019,EM2,R2,Y,3,Round 2 Loser,Division 2 Seed,13
+3,Pittsburgh Penguins,East,Metropolitan,5,82,44,26,12,42,273,241,32,100,20182019,EM3,R1,Y,2,Round 1 Loser,Division 3 Seed,12
+1,Tampa Bay Lightning,East,Atlantic,14,82,62,16,4,56,325,222,103,128,20182019,EA1,R1,Y,2,Round 1 Loser,Division 1 Seed,14
+2,Boston Bruins,East,Atlantic,6,82,49,24,9,47,259,215,44,107,20182019,EA2,SCL,Y,5,Stanley Cup Loser,Division 2 Seed,13
+3,Toronto Maple Leafs,East,Atlantic,10,82,46,28,8,46,286,251,35,100,20182019,EA3,R1,Y,2,Round 1 Loser,Division 3 Seed,12
+4,Carolina Hurricanes,East,Metropolitan,12,82,46,29,7,44,245,223,22,99,20182019,EW1,CF,Y,4,Conference Final Loser,Wild Card 1,11
+5,Columbus Blue Jackets,East,Metropolitan,29,82,47,31,4,45,258,232,26,98,20182019,EW2,R2,Y,3,Round 2 Loser,Wild Card 2,10
+4,Montreal Canadiens,East,Atlantic,8,82,44,30,8,41,249,236,13,96,20182019,NONE,NONE,N,1,NONE,NONE,0
+5,Florida Panthers,East,Atlantic,13,82,36,32,14,33,267,280,−13,86,20182019,NONE,NONE,N,1,NONE,NONE,0
+6,Philadelphia Flyers,East,Metropolitan,4,82,37,37,8,34,244,281,−37,82,20182019,NONE,NONE,N,1,NONE,NONE,0
+7,New York Rangers,East,Metropolitan,3,82,32,36,14,26,227,272,−45,78,20182019,NONE,NONE,N,1,NONE,NONE,0
+6,Buffalo Sabres,East,Atlantic,7,82,33,39,10,28,226,271,−45,76,20182019,NONE,NONE,N,1,NONE,NONE,0
+7,Detroit Red Wings,East,Atlantic,17,82,32,40,10,29,227,277,−50,74,20182019,NONE,NONE,N,1,NONE,NONE,0
+8,New Jersey Devils,East,Metropolitan,1,82,31,41,10,28,222,275,−53,72,20182019,NONE,NONE,N,1,NONE,NONE,0
+8,Ottawa Senators,East,Atlantic,9,82,29,47,6,29,242,302,−60,64,20182019,NONE,NONE,N,1,NONE,NONE,0
+1,Nashville Predators,West,Central,18,82,47,29,6,43,240,214,26,100,20182019,WC1,R1,Y,2,Round 1 Loser,Division 1 Seed,14
+2,Winnipeg Jets,West,Central,52,82,47,30,5,45,272,244,28,99,20182019,WC2,R1,Y,2,Round 1 Loser,Division 2 Seed,13
+3,St. Louis Blues,West,Central,19,82,45,28,9,42,247,223,24,99,20182019,WC3,SCW,Y,6,Stanley Cup Winner,Division 3 Seed,12
+1,Calgary Flames,West,Pacific,20,82,50,25,7,50,289,227,62,107,20182019,WP1,R1,Y,2,Round 1 Loser,Division 1 Seed,14
+2,San Jose Sharks,West,Pacific,28,82,46,27,9,46,289,261,28,101,20182019,WP2,CF,Y,4,Conference Final Loser,Division 2 Seed,13
+3,Vegas Golden Knights,West,Pacific,54,82,43,32,7,40,249,230,19,93,20182019,WP3,R1,Y,2,Round 1 Loser,Division 3 Seed,12
+4,Dallas Stars,West,Central,25,82,43,32,7,42,210,202,8,93,20182019,WW1,R2,Y,3,Round 2 Loser,Wild Card 1,11
+5,Colorado Avalanche,West,Central,21,82,38,30,14,36,260,246,14,90,20182019,WW2,R2,Y,3,Round 2 Loser,Wild Card 2,10
+4,Arizona Coyotes,West,Pacific,53,82,39,35,8,35,213,223,−10,86,20182019,NONE,NONE,N,1,NONE,NONE,0
+6,Chicago Blackhawks,West,Central,16,82,36,34,12,33,270,292,−22,84,20182019,NONE,NONE,N,1,NONE,NONE,0
+7,Minnesota Wild,West,Central,30,82,37,36,9,36,211,237,−26,83,20182019,NONE,NONE,N,1,NONE,NONE,0
+5,Vancouver Canucks,West,Pacific,23,82,35,36,11,29,225,254,−29,81,20182019,NONE,NONE,N,1,NONE,NONE,0
+6,Anaheim Ducks,West,Pacific,24,82,35,37,10,32,199,251,−52,80,20182019,NONE,NONE,N,1,NONE,NONE,0
+7,Edmonton Oilers,West,Pacific,22,82,35,38,9,32,232,274,−42,79,20182019,NONE,NONE,N,1,NONE,NONE,0
+8,Los Angeles Kings,West,Pacific,26,82,31,42,9,28,202,263,−61,71,20182019,NONE,NONE,N,1,NONE,NONE,0
+1,Washington Capitals,East,Metropolitan,15,82,49,26,7,46,259,239,20,105,20172018,EM1,SCW,Y,6,Stanley Cup Winner,Division 1 Seed,14
+2,Pittsburgh Penguins,East,Metropolitan,5,82,47,29,6,45,272,250,22,100,20172018,EM2,R2,Y,3,Round 2 Loser,Division 2 Seed,13
+3,Philadelphia Flyers,East,Metropolitan,4,82,42,26,14,40,251,243,8,98,20172018,EM3,R1,Y,2,Round 1 Loser,Division 3 Seed,12
+1,Tampa Bay Lightning,East,Atlantic,14,82,54,23,5,48,296,236,60,113,20172018,EA1,CF,Y,4,Conference Final Loser,Division 1 Seed,14
+2,Boston Bruins,East,Atlantic,6,82,50,20,12,47,270,214,56,112,20172018,EA2,R2,Y,3,Round 2 Loser,Division 2 Seed,13
+3,Toronto Maple Leafs,East,Atlantic,10,82,49,26,7,42,277,232,45,105,20172018,EA3,R1,Y,2,Round 1 Loser,Division 3 Seed,12
+4,Columbus Blue Jackets,East,Metropolitan,29,82,45,30,7,39,242,230,12,97,20172018,EW1,R1,Y,2,Round 1 Loser,Wild Card 1,11
+5,New Jersey Devils,East,Metropolitan,1,82,44,29,9,39,248,244,4,97,20172018,EW2,R1,Y,2,Round 1 Loser,Wild Card 2,10
+4,Florida Panthers,East,Atlantic,13,82,44,30,8,41,248,246,2,96,20172018,NONE,NONE,N,1,NONE,NONE,0
+6,Carolina Hurricanes,East,Metropolitan,12,82,36,35,11,33,228,256,−28,83,20172018,NONE,NONE,N,1,NONE,NONE,0
+7,New York Islanders,East,Metropolitan,2,82,35,37,10,32,264,296,−32,80,20172018,NONE,NONE,N,1,NONE,NONE,0
+8,New York Rangers,East,Metropolitan,3,82,34,39,9,31,231,268,−37,77,20172018,NONE,NONE,N,1,NONE,NONE,0
+5,Detroit Red Wings,East,Atlantic,17,82,30,39,13,25,217,255,−38,73,20172018,NONE,NONE,N,1,NONE,NONE,0
+6,Montreal Canadiens,East,Atlantic,8,82,29,40,13,27,209,264,−55,71,20172018,NONE,NONE,N,1,NONE,NONE,0
+7,Ottawa Senators,East,Atlantic,9,82,28,43,11,26,221,291,−70,67,20172018,NONE,NONE,N,1,NONE,NONE,0
+8,Buffalo Sabres,East,Atlantic,7,82,25,45,12,24,199,280,−81,62,20172018,NONE,NONE,N,1,NONE,NONE,0
+1,Nashville Predators,West,Central,18,82,53,18,11,47,267,211,56,117,20172018,WC1,R2,Y,3,Round 2 Loser,Division 1 Seed,14
+2,Winnipeg Jets,West,Central,52,82,52,20,10,48,277,218,59,114,20172018,WC2,CF,Y,4,Conference Final Loser,Division 2 Seed,13
+3,Minnesota Wild,West,Central,30,82,45,26,11,42,253,232,21,101,20172018,WC3,R1,Y,2,Round 1 Loser,Division 3 Seed,12
+1,Vegas Golden Knights,West,Pacific,54,82,51,24,7,47,272,228,44,109,20172018,WP1,SCL,Y,5,Stanley Cup Loser,Division 1 Seed,14
+2,Anaheim Ducks,West,Pacific,24,82,44,25,13,40,235,216,19,101,20172018,WP2,R1,Y,2,Round 1 Loser,Division 2 Seed,13
+3,San Jose Sharks,West,Pacific,28,82,45,27,10,40,252,229,23,100,20172018,WP3,R2,Y,3,Round 2 Loser,Division 3 Seed,12
+4,Los Angeles Kings,West,Pacific,26,82,45,29,8,43,239,203,36,98,20172018,WW1,R1,Y,2,Round 1 Loser,Wild Card 1,11
+4,Colorado Avalanche,West,Central,21,82,43,30,9,41,257,237,20,95,20172018,WW2,R1,Y,2,Round 1 Loser,Wild Card 2,10
+5,St. Louis Blues,West,Central,19,82,44,32,6,41,226,222,4,94,20172018,NONE,NONE,N,1,NONE,NONE,0
+6,Dallas Stars,West,Central,25,82,42,32,8,38,235,225,10,92,20172018,NONE,NONE,N,1,NONE,NONE,0
+5,Calgary Flames,West,Pacific,20,82,37,35,10,35,218,248,−30,84,20172018,NONE,NONE,N,1,NONE,NONE,0
+6,Edmonton Oilers,West,Pacific,22,82,36,40,6,31,234,263,−29,78,20172018,NONE,NONE,N,1,NONE,NONE,0
+7,Chicago Blackhawks,West,Central,16,82,33,39,10,32,229,256,−27,76,20172018,NONE,NONE,N,1,NONE,NONE,0
+7,Vancouver Canucks,West,Pacific,23,82,31,40,11,31,218,264,−46,73,20172018,NONE,NONE,N,1,NONE,NONE,0
+8,Arizona Coyotes,West,Pacific,53,82,29,41,12,27,208,256,−48,70,20172018,NONE,NONE,N,1,NONE,NONE,0
+1,Washington Capitals,East,Metropolitan,15,82,55,19,8,53,263,182,81,118,20162017,EM1,R2,Y,3,Round 2 Loser,Division 1 Seed,14
+2,Pittsburgh Penguins,East,Metropolitan,5,82,50,21,11,46,282,234,48,111,20162017,EM2,SCW,Y,6,Stanley Cup Winner,Division 2 Seed,13
+3,Columbus Blue Jackets,East,Metropolitan,29,82,50,24,8,47,249,195,54,108,20162017,EM3,R1,Y,2,Round 1 Loser,Division 3 Seed,12
+1,Montreal Canadiens,East,Atlantic,8,82,47,26,9,44,226,200,26,103,20162017,EA1,R1,Y,2,Round 1 Loser,Division 1 Seed,14
+2,Ottawa Senators,East,Atlantic,9,82,44,28,10,38,212,214,−2,98,20162017,EA2,CF,Y,4,Conference Final Loser,Division 2 Seed,13
+3,Boston Bruins,East,Atlantic,6,82,44,31,7,42,234,212,22,95,20162017,EA3,R1,Y,2,Round 1 Loser,Division 3 Seed,12
+4,New York Rangers,East,Metropolitan,3,82,48,28,6,45,256,220,36,102,20162017,EW1,R2,Y,3,Round 2 Loser,Wild Card 1,11
+4,Toronto Maple Leafs,East,Atlantic,10,82,40,27,15,39,251,242,9,95,20162017,EW2,R1,Y,2,Round 1 Loser,Wild Card 2,10
+5,New York Islanders,East,Metropolitan,2,82,41,29,12,39,241,242,−1,94,20162017,NONE,NONE,N,1,NONE,NONE,0
+5,Tampa Bay Lightning,East,Atlantic,14,82,42,30,10,38,234,227,7,94,20162017,NONE,NONE,N,1,NONE,NONE,0
+6,Philadelphia Flyers,East,Metropolitan,4,82,39,33,10,32,219,236,−17,88,20162017,NONE,NONE,N,1,NONE,NONE,0
+7,Carolina Hurricanes,East,Metropolitan,12,82,36,31,15,33,215,236,−21,87,20162017,NONE,NONE,N,1,NONE,NONE,0
+6,Florida Panthers,East,Atlantic,13,82,35,36,11,30,210,237,−27,81,20162017,NONE,NONE,N,1,NONE,NONE,0
+7,Detroit Red Wings,East,Atlantic,17,82,33,36,13,24,207,244,−37,79,20162017,NONE,NONE,N,1,NONE,NONE,0
+8,Buffalo Sabres,East,Atlantic,7,82,33,37,12,31,201,237,−36,78,20162017,NONE,NONE,N,1,NONE,NONE,0
+8,New Jersey Devils,East,Metropolitan,1,82,28,40,14,25,183,244,−61,70,20162017,NONE,NONE,N,1,NONE,NONE,0
+1,Chicago Blackhawks,West,Central,16,82,50,23,9,46,244,213,31,109,20162017,WC1,R1,Y,2,Round 1 Loser,Division 1 Seed,14
+2,Minnesota Wild,West,Central,30,82,49,25,8,46,266,208,58,106,20162017,WC2,R1,Y,2,Round 1 Loser,Division 2 Seed,13
+3,St. Louis Blues,West,Central,19,82,46,29,7,44,235,218,17,99,20162017,WC3,R2,Y,3,Round 2 Loser,Division 3 Seed,12
+1,Anaheim Ducks,West,Pacific,24,82,46,23,13,43,223,200,23,105,20162017,WP1,CF,Y,4,Conference Final Loser,Division 1 Seed,14
+2,Edmonton Oilers,West,Pacific,22,82,47,26,9,43,247,212,35,103,20162017,WP2,R2,Y,3,Round 2 Loser,Division 2 Seed,13
+3,San Jose Sharks,West,Pacific,28,82,46,29,7,44,221,201,20,99,20162017,WP3,R1,Y,2,Round 1 Loser,Division 3 Seed,12
+4,Calgary Flames,West,Pacific,20,82,45,33,4,41,226,221,5,94,20162017,WW1,R1,Y,2,Round 1 Loser,Wild Card 1,11
+4,Nashville Predators,West,Central,18,82,41,29,12,39,240,224,16,94,20162017,WW2,SCL,Y,5,Stanley Cup Loser,Wild Card 2,10
+5,Winnipeg Jets,West,Central,52,82,40,35,7,37,249,256,−7,87,20162017,NONE,NONE,N,1,NONE,NONE,0
+5,Los Angeles Kings,West,Pacific,26,82,39,35,8,37,201,205,−4,86,20162017,NONE,NONE,N,1,NONE,NONE,0
+6,Dallas Stars,West,Central,25,82,34,37,11,33,223,262,−39,79,20162017,NONE,NONE,N,1,NONE,NONE,0
+6,Arizona Coyotes,West,Pacific,53,82,30,42,10,24,197,260,−63,70,20162017,NONE,NONE,N,1,NONE,NONE,0
+7,Vancouver Canucks,West,Pacific,23,82,30,43,9,26,182,243,−61,69,20162017,NONE,NONE,N,1,NONE,NONE,0
+7,Colorado Avalanche,West,Central,21,82,22,56,4,21,166,278,−112,48,20162017,NONE,NONE,N,1,NONE,NONE,0
+1,Washington Capitals,East,Metropolitan,15,82,56,18,8,52,252,193,59,120,20152016,EM1,R2,Y,3,Round 2 Loser,Division 1 Seed,14
+2,Pittsburgh Penguins,East,Metropolitan,5,82,48,26,8,44,245,203,42,104,20152016,EM2,SCW,Y,6,Stanley Cup Winner,Division 2 Seed,13
+3,New York Rangers,East,Metropolitan,3,82,46,27,9,43,236,217,19,101,20152016,EM3,R1,Y,2,Round 1 Loser,Division 3 Seed,12
+1,Florida Panthers,East,Atlantic,13,82,47,26,9,40,239,203,36,103,20152016,EA1,R1,Y,2,Round 1 Loser,Division 1 Seed,14
+2,Tampa Bay Lightning,East,Atlantic,14,82,46,31,5,43,227,201,26,97,20152016,EA2,CF,Y,4,Conference Final Loser,Division 2 Seed,13
+3,Detroit Red Wings,East,Atlantic,17,82,41,30,11,39,211,224,−13,93,20152016,EA3,R1,Y,2,Round 1 Loser,Division 3 Seed,12
+4,New York Islanders,East,Metropolitan,2,82,45,27,10,40,232,216,16,100,20152016,EW1,R2,Y,3,Round 2 Loser,Wild Card 1,11
+5,Philadelphia Flyers,East,Metropolitan,4,82,41,27,14,38,214,218,−4,96,20152016,EW2,R1,Y,2,Round 1 Loser,Wild Card 2,10
+4,Boston Bruins,East,Atlantic,6,82,42,31,9,38,240,230,10,93,20152016,NONE,NONE,N,1,NONE,NONE,0
+6,Carolina Hurricanes,East,Metropolitan,12,82,35,31,16,33,198,226,−28,86,20152016,NONE,NONE,N,1,NONE,NONE,0
+5,Ottawa Senators,East,Atlantic,9,82,38,35,9,32,236,247,−11,85,20152016,NONE,NONE,N,1,NONE,NONE,0
+7,New Jersey Devils,East,Metropolitan,1,82,38,36,8,36,184,208,−24,84,20152016,NONE,NONE,N,1,NONE,NONE,0
+6,Montreal Canadiens,East,Atlantic,8,82,38,38,6,33,221,236,−15,82,20152016,NONE,NONE,N,1,NONE,NONE,0
+7,Buffalo Sabres,East,Atlantic,7,82,35,36,11,33,201,222,−21,81,20152016,NONE,NONE,N,1,NONE,NONE,0
+8,Columbus Blue Jackets,East,Metropolitan,29,82,34,40,8,28,219,252,−33,76,20152016,NONE,NONE,N,1,NONE,NONE,0
+8,Toronto Maple Leafs,East,Atlantic,10,82,29,42,11,23,198,246,−48,69,20152016,NONE,NONE,N,1,NONE,NONE,0
+1,Dallas Stars,West,Central,25,82,50,23,9,48,267,230,37,109,20152016,WC1,R2,Y,3,Round 2 Loser,Division 1 Seed,14
+2,St. Louis Blues,West,Central,19,82,49,24,9,44,224,201,23,107,20152016,WC2,CF,Y,4,Conference Final Loser,Division 2 Seed,13
+3,Chicago Blackhawks,West,Central,16,82,47,26,9,46,235,209,26,103,20152016,WC3,R1,Y,2,Round 1 Loser,Division 3 Seed,12
+1,Anaheim Ducks,West,Pacific,24,82,46,25,11,43,218,192,26,103,20152016,WP1,R1,Y,2,Round 1 Loser,Division 1 Seed,14
+2,Los Angeles Kings,West,Pacific,26,82,48,28,6,46,225,195,30,102,20152016,WP2,R1,Y,2,Round 1 Loser,Division 2 Seed,13
+3,San Jose Sharks,West,Pacific,28,82,46,30,6,42,241,210,31,98,20152016,WP3,SCL,Y,5,Stanley Cup Loser,Division 3 Seed,12
+4,Nashville Predators,West,Central,18,82,41,27,14,37,228,215,13,96,20152016,WW1,R2,Y,3,Round 2 Loser,Wild Card 1,11
+5,Minnesota Wild,West,Central,30,82,38,33,11,35,216,206,10,87,20152016,WW2,R1,Y,2,Round 1 Loser,Wild Card 2,10
+6,Colorado Avalanche,West,Central,21,82,39,39,4,35,216,240,−24,82,20152016,NONE,NONE,N,1,NONE,NONE,0
+4,Arizona Coyotes,West,Pacific,53,82,35,39,8,34,209,245,−36,78,20152016,NONE,NONE,N,1,NONE,NONE,0
+7,Winnipeg Jets,West,Central,52,82,35,39,8,32,215,239,−24,78,20152016,NONE,NONE,N,1,NONE,NONE,0
+5,Calgary Flames,West,Pacific,20,82,35,40,7,33,231,260,−29,77,20152016,NONE,NONE,N,1,NONE,NONE,0
+6,Vancouver Canucks,West,Pacific,23,82,31,38,13,26,191,243,−52,75,20152016,NONE,NONE,N,1,NONE,NONE,0
+7,Edmonton Oilers,West,Pacific,22,82,31,43,8,27,203,245,−42,70,20152016,NONE,NONE,N,1,NONE,NONE,0
+1,New York Rangers,East,Metropolitan,3,82,53,22,7,49,252,192,60,113,20142015,EM1,CF,Y,4,Conference Final Loser,Division 1 Seed,14
+2,Washington Capitals,East,Metropolitan,15,82,45,26,11,40,242,203,39,101,20142015,EM2,R2,Y,3,Round 2 Loser,Division 2 Seed,13
+3,New York Islanders,East,Metropolitan,2,82,47,28,7,40,252,230,22,101,20142015,EM3,R1,Y,2,Round 1 Loser,Division 3 Seed,12
+1,Montreal Canadiens,East,Atlantic,8,82,50,22,10,43,221,189,32,110,20142015,EA1,R2,Y,3,Round 2 Loser,Division 1 Seed,14
+2,Tampa Bay Lightning,East,Atlantic,14,82,50,24,8,47,262,211,51,108,20142015,EA2,SCL,Y,5,Stanley Cup Loser,Division 2 Seed,13
+3,Detroit Red Wings,East,Atlantic,17,82,43,25,14,39,235,221,14,100,20142015,EA3,R1,Y,2,Round 1 Loser,Division 3 Seed,12
+4,Ottawa Senators,East,Atlantic,9,82,43,26,13,37,238,215,23,99,20142015,EW1,R1,Y,2,Round 1 Loser,Wild Card 1,11
+4,Pittsburgh Penguins,East,Metropolitan,5,82,43,27,12,39,221,210,11,98,20142015,EW2,R1,Y,2,Round 1 Loser,Wild Card 2,10
+5,Boston Bruins,East,Atlantic,6,82,41,27,14,37,213,211,2,96,20142015,NONE,NONE,N,1,NONE,NONE,0
+6,Florida Panthers,East,Atlantic,13,82,38,29,15,30,206,223,−17,91,20142015,NONE,NONE,N,1,NONE,NONE,0
+5,Columbus Blue Jackets,East,Metropolitan,29,82,42,35,5,33,236,250,−14,89,20142015,NONE,NONE,N,1,NONE,NONE,0
+6,Philadelphia Flyers,East,Metropolitan,4,82,33,31,18,30,215,234,−19,84,20142015,NONE,NONE,N,1,NONE,NONE,0
+7,New Jersey Devils,East,Metropolitan,1,82,32,36,14,27,181,216,−35,78,20142015,NONE,NONE,N,1,NONE,NONE,0
+8,Carolina Hurricanes,East,Metropolitan,12,82,30,41,11,25,188,226,−38,71,20142015,NONE,NONE,N,1,NONE,NONE,0
+7,Toronto Maple Leafs,East,Atlantic,10,82,30,44,8,25,211,262,−51,68,20142015,NONE,NONE,N,1,NONE,NONE,0
+8,Buffalo Sabres,East,Atlantic,7,82,23,51,8,15,161,274,−113,54,20142015,NONE,NONE,N,1,NONE,NONE,0
+1,St. Louis Blues,West,Central,19,82,51,24,7,42,248,201,47,109,20142015,WC1,R1,Y,2,Round 1 Loser,Division 1 Seed,14
+2,Nashville Predators,West,Central,18,82,47,25,10,41,232,208,24,104,20142015,WC2,R1,Y,2,Round 1 Loser,Division 2 Seed,13
+3,Chicago Blackhawks,West,Central,16,82,48,28,6,39,229,189,40,102,20142015,WC3,SCW,Y,6,Stanley Cup Winner,Division 3 Seed,12
+1,Anaheim Ducks,West,Pacific,24,82,51,24,7,43,236,226,10,109,20142015,WP1,CF,Y,4,Conference Final Loser,Division 1 Seed,14
+2,Vancouver Canucks,West,Pacific,23,82,48,29,5,42,242,222,20,101,20142015,WP2,R1,Y,2,Round 1 Loser,Division 2 Seed,13
+3,Calgary Flames,West,Pacific,20,82,45,30,7,41,241,216,25,97,20142015,WP3,R2,Y,3,Round 2 Loser,Division 3 Seed,12
+4,Minnesota Wild,West,Central,30,82,46,28,8,42,231,201,30,100,20142015,WW1,R2,Y,3,Round 2 Loser,Wild Card 1,11
+5,Winnipeg Jets,West,Central,52,82,43,26,13,36,230,210,20,99,20142015,WW2,R1,Y,2,Round 1 Loser,Wild Card 2,10
+4,Los Angeles Kings,West,Pacific,26,82,40,27,15,38,220,205,15,95,20142015,NONE,NONE,N,1,NONE,NONE,0
+6,Dallas Stars,West,Central,25,82,41,31,10,37,261,260,1,92,20142015,NONE,NONE,N,1,NONE,NONE,0
+7,Colorado Avalanche,West,Central,21,82,39,31,12,29,219,227,−8,90,20142015,NONE,NONE,N,1,NONE,NONE,0
+5,San Jose Sharks,West,Pacific,28,82,40,33,9,36,228,232,−4,89,20142015,NONE,NONE,N,1,NONE,NONE,0
+6,Edmonton Oilers,West,Pacific,22,82,24,44,14,19,198,283,−85,62,20142015,NONE,NONE,N,1,NONE,NONE,0
+7,Arizona Coyotes,West,Pacific,53,82,24,50,8,19,170,272,−102,56,20142015,NONE,NONE,N,1,NONE,NONE,0
+1,Pittsburgh Penguins,East,Metropolitan,5,82,51,24,7,44,249,207,42,109,20132014,EM1,R2,Y,3,Round 2 Loser,Division 1 Seed,14
+2,New York Rangers,East,Metropolitan,3,82,45,31,6,41,218,193,25,96,20132014,EM2,SCL,Y,5,Stanley Cup Loser,Division 2 Seed,13
+3,Philadelphia Flyers,East,Metropolitan,4,82,42,30,10,39,236,235,1,94,20132014,EM3,R1,Y,2,Round 1 Loser,Division 3 Seed,12
+1,Boston Bruins,East,Atlantic,6,82,54,19,9,51,261,177,84,117,20132014,EA1,R2,Y,3,Round 2 Loser,Division 1 Seed,14
+2,Tampa Bay Lightning,East,Atlantic,14,82,46,27,9,38,240,215,25,101,20132014,EA2,R1,Y,2,Round 1 Loser,Division 2 Seed,13
+3,Montreal Canadiens,East,Atlantic,8,82,46,28,8,40,215,204,11,100,20132014,EA3,CF,Y,4,Conference Final Loser,Division 3 Seed,12
+4,Columbus Blue Jackets,East,Metropolitan,29,82,43,32,7,38,231,216,15,93,20132014,EW1,R1,Y,2,Round 1 Loser,Wild Card 1,11
+4,Detroit Red Wings,East,Atlantic,17,82,39,28,15,34,222,230,−8,93,20132014,EW2,R1,Y,2,Round 1 Loser,Wild Card 2,10
+5,Washington Capitals,East,Metropolitan,15,82,38,30,14,28,235,240,−5,90,20132014,NONE,NONE,N,1,NONE,NONE,0
+6,New Jersey Devils,East,Metropolitan,1,82,35,29,18,35,197,208,−11,88,20132014,NONE,NONE,N,1,NONE,NONE,0
+5,Ottawa Senators,East,Atlantic,9,82,37,31,14,30,236,265,−29,88,20132014,NONE,NONE,N,1,NONE,NONE,0
+6,Toronto Maple Leafs,East,Atlantic,10,82,38,36,8,29,231,256,−25,84,20132014,NONE,NONE,N,1,NONE,NONE,0
+7,Carolina Hurricanes,East,Metropolitan,12,82,36,35,11,34,207,230,−23,83,20132014,NONE,NONE,N,1,NONE,NONE,0
+8,New York Islanders,East,Metropolitan,2,82,34,37,11,25,225,267,−42,79,20132014,NONE,NONE,N,1,NONE,NONE,0
+7,Florida Panthers,East,Atlantic,13,82,29,45,8,21,196,268,−72,66,20132014,NONE,NONE,N,1,NONE,NONE,0
+8,Buffalo Sabres,East,Atlantic,7,82,21,51,10,14,157,248,−91,52,20132014,NONE,NONE,N,1,NONE,NONE,0
+1,Colorado Avalanche,West,Central,21,82,52,22,8,47,250,220,30,112,20132014,WC1,R1,Y,2,Round 1 Loser,Division 1 Seed,14
+2,St. Louis Blues,West,Central,19,82,52,23,7,43,248,191,57,111,20132014,WC2,R1,Y,2,Round 1 Loser,Division 2 Seed,13
+3,Chicago Blackhawks,West,Central,16,82,46,21,15,40,267,220,47,107,20132014,WC3,CF,Y,4,Conference Final Loser,Division 3 Seed,12
+1,Anaheim Ducks,West,Pacific,24,82,54,20,8,51,266,209,57,116,20132014,WP1,R2,Y,3,Round 2 Loser,Division 1 Seed,14
+2,San Jose Sharks,West,Pacific,28,82,51,22,9,41,249,200,49,111,20132014,WP2,R1,Y,2,Round 1 Loser,Division 2 Seed,13
+3,Los Angeles Kings,West,Pacific,26,82,46,28,8,38,206,174,32,100,20132014,WP3,SCW,Y,6,Stanley Cup Winner,Division 3 Seed,12
+4,Minnesota Wild,West,Central,30,82,43,27,12,35,207,206,1,98,20132014,WW1,R2,Y,3,Round 2 Loser,Wild Card 1,11
+5,Dallas Stars,West,Central,25,82,40,31,11,36,235,228,7,91,20132014,WW2,R1,Y,2,Round 1 Loser,Wild Card 2,10
+4,Phoenix Coyotes,West,Pacific,27,82,37,30,15,31,216,231,−15,89,20132014,NONE,NONE,N,1,NONE,NONE,0
+6,Nashville Predators,West,Central,18,82,38,32,12,36,216,242,−26,88,20132014,NONE,NONE,N,1,NONE,NONE,0
+7,Winnipeg Jets,West,Central,52,82,37,35,10,29,227,237,−10,84,20132014,NONE,NONE,N,1,NONE,NONE,0
+5,Vancouver Canucks,West,Pacific,23,82,36,35,11,31,196,223,−27,83,20132014,NONE,NONE,N,1,NONE,NONE,0
+6,Calgary Flames,West,Pacific,20,82,35,40,7,28,209,241,−32,77,20132014,NONE,NONE,N,1,NONE,NONE,0
+7,Edmonton Oilers,West,Pacific,22,82,29,44,9,25,203,270,−67,67,20132014,NONE,NONE,N,1,NONE,NONE,0
+1,Chicago Blackhawks,West,Central,16,48,36,7,5,30,155,102,53,77,20122013,W1,SCW,Y,6,Stanley Cup Winner,Conference 1 Seed,9
+2,Anaheim Ducks,West,Pacific,24,48,30,12,6,24,140,118,22,66,20122013,W2,R1,Y,2,Round 1 Loser,Conference 2 Seed,8
+3,Vancouver Canucks,West,Pacific,23,48,26,15,7,21,127,121,6,59,20122013,W3,R1,Y,2,Round 1 Loser,Conference 3 Seed,7
+4,St. Louis Blues,West,Central,19,48,29,17,2,24,129,115,14,60,20122013,W4,R1,Y,2,Round 1 Loser,Conference 4 Seed,6
+5,Los Angeles Kings,West,Pacific,26,48,27,16,5,25,133,118,15,59,20122013,W5,CF,Y,4,Conference Final Loser,Conference 5 Seed,5
+6,San Jose Sharks,West,Pacific,28,48,25,16,7,17,124,116,8,57,20122013,W6,R2,Y,3,Round 2 Loser,Conference 6 Seed,4
+7,Detroit Red Wings,East,Atlantic,17,48,24,16,8,22,124,115,9,56,20122013,W7,R2,Y,3,Round 2 Loser,Conference 7 Seed,3
+8,Minnesota Wild,West,Central,30,48,26,19,3,22,122,127,−5,55,20122013,W8,R1,Y,2,Round 1 Loser,Conference 8 Seed,2
+9,Columbus Blue Jackets,East,Metropolitan,29,48,24,17,7,19,120,119,1,55,20122013,NONE,NONE,N,1,NONE,NONE,0
+10,Phoenix Coyotes,West,Central,27,48,21,18,9,17,125,131,−6,51,20122013,NONE,NONE,N,1,NONE,NONE,0
+11,Dallas Stars,West,Central,25,48,22,22,4,20,130,142,−12,48,20122013,NONE,NONE,N,1,NONE,NONE,0
+12,Edmonton Oilers,West,Pacific,22,48,19,22,7,17,125,134,−9,45,20122013,NONE,NONE,N,1,NONE,NONE,0
+13,Calgary Flames,West,Pacific,20,48,19,25,4,19,128,160,−32,42,20122013,NONE,NONE,N,1,NONE,NONE,0
+14,Nashville Predators,West,Central,18,48,16,23,9,14,111,139,−28,41,20122013,NONE,NONE,N,1,NONE,NONE,0
+15,Colorado Avalanche,West,Central,21,48,16,25,7,14,116,152,−36,39,20122013,NONE,NONE,N,1,NONE,NONE,0
+1,Pittsburgh Penguins,East,Metropolitan,5,48,36,12,0,33,165,119,46,72,20122013,E1,CF,Y,4,Conference Final Loser,Conference 1 Seed,9
+2,Montreal Canadiens,East,Atlantic,8,48,29,14,5,26,149,126,23,63,20122013,E2,R1,Y,2,Round 1 Loser,Conference 2 Seed,8
+3,Washington Capitals,East,Metropolitan,15,48,27,18,3,24,149,130,19,57,20122013,E3,R1,Y,2,Round 1 Loser,Conference 3 Seed,7
+4,Boston Bruins,East,Atlantic,6,48,28,14,6,24,131,109,22,62,20122013,E4,SCL,Y,5,Stanley Cup Loser,Conference 4 Seed,6
+5,Toronto Maple Leafs,East,Atlantic,10,48,26,17,5,26,145,133,12,57,20122013,E5,R1,Y,2,Round 1 Loser,Conference 5 Seed,5
+6,New York Rangers,East,Metropolitan,3,48,26,18,4,22,130,112,18,56,20122013,E6,R2,Y,3,Round 2 Loser,Conference 6 Seed,4
+7,Ottawa Senators,East,Atlantic,9,48,25,17,6,21,116,104,12,56,20122013,E7,R2,Y,3,Round 2 Loser,Conference 7 Seed,3
+8,New York Islanders,East,Metropolitan,2,48,24,17,7,20,139,139,0,55,20122013,E8,R1,Y,2,Round 1 Loser,Conference 8 Seed,2
+9,Winnipeg Jets,West,Central,52,48,24,21,3,22,128,144,−16,51,20122013,NONE,NONE,N,1,NONE,NONE,0
+10,Philadelphia Flyers,East,Metropolitan,4,48,23,22,3,22,133,141,−8,49,20122013,NONE,NONE,N,1,NONE,NONE,0
+11,New Jersey Devils,East,Metropolitan,1,48,19,19,10,17,112,129,−17,48,20122013,NONE,NONE,N,1,NONE,NONE,0
+12,Buffalo Sabres,East,Atlantic,7,48,21,21,6,14,115,143,−28,48,20122013,NONE,NONE,N,1,NONE,NONE,0
+13,Carolina Hurricanes,East,Metropolitan,12,48,19,25,4,18,128,160,−32,42,20122013,NONE,NONE,N,1,NONE,NONE,0
+14,Tampa Bay Lightning,East,Atlantic,14,48,18,26,4,17,148,150,−2,40,20122013,NONE,NONE,N,1,NONE,NONE,0
+15,Florida Panthers,East,Atlantic,13,48,15,27,6,12,112,171,−59,36,20122013,NONE,NONE,N,1,NONE,NONE,0
+1,New York Rangers,East,Metropolitan,3,82,51,24,7,47,226,187,39,109,20112012,E1,CF,Y,4,Conference Final Loser,Conference 1 Seed,9
+2,Boston Bruins,East,Atlantic,6,82,49,29,4,40,269,202,67,102,20112012,E2,R1,Y,2,Round 1 Loser,Conference 2 Seed,8
+3,Florida Panthers,East,Atlantic,13,82,38,26,18,32,203,227,−24,94,20112012,E3,R1,Y,2,Round 1 Loser,Conference 3 Seed,7
+4,Pittsburgh Penguins,East,Metropolitan,5,82,51,25,6,42,282,221,61,108,20112012,E4,R1,Y,2,Round 1 Loser,Conference 4 Seed,6
+5,Philadelphia Flyers,East,Metropolitan,4,82,47,26,9,43,264,232,32,103,20112012,E5,R2,Y,3,Round 2 Loser,Conference 5 Seed,5
+6,New Jersey Devils,East,Metropolitan,1,82,48,28,6,36,228,209,19,102,20112012,E6,SCL,Y,5,Stanley Cup Loser,Conference 6 Seed,4
+7,Washington Capitals,East,Metropolitan,15,82,42,32,8,38,222,230,−8,92,20112012,E7,R2,Y,3,Round 2 Loser,Conference 7 Seed,3
+8,Ottawa Senators,East,Atlantic,9,82,41,31,10,35,249,240,9,92,20112012,E8,R1,Y,2,Round 1 Loser,Conference 8 Seed,2
+9,Buffalo Sabres,East,Atlantic,7,82,39,32,11,32,218,230,−12,89,20112012,NONE,NONE,N,1,NONE,NONE,0
+10,Tampa Bay Lightning,East,Atlantic,14,82,38,36,8,35,235,281,−46,84,20112012,NONE,NONE,N,1,NONE,NONE,0
+11,Winnipeg Jets,East,Central,52,82,37,35,10,33,225,246,−21,84,20112012,NONE,NONE,N,1,NONE,NONE,0
+12,Carolina Hurricanes,East,Metropolitan,12,82,33,33,16,32,213,243,−30,82,20112012,NONE,NONE,N,1,NONE,NONE,0
+13,Toronto Maple Leafs,East,Atlantic,10,82,35,37,10,31,231,264,−33,80,20112012,NONE,NONE,N,1,NONE,NONE,0
+14,New York Islanders,East,Metropolitan,2,82,34,37,11,27,203,255,−52,79,20112012,NONE,NONE,N,1,NONE,NONE,0
+15,Montreal Canadiens,East,Atlantic,8,82,31,35,16,26,212,226,−14,78,20112012,NONE,NONE,N,1,NONE,NONE,0
+1,Vancouver Canucks,West,Pacific,23,82,51,22,9,43,249,198,51,111,20112012,W1,R1,Y,2,Round 1 Loser,Conference 1 Seed,9
+2,St. Louis Blues,West,Central,19,82,49,22,11,45,210,165,45,109,20112012,W2,R2,Y,3,Round 2 Loser,Conference 2 Seed,8
+3,Phoenix Coyotes,West,Central,27,82,42,27,13,36,216,204,12,97,20112012,W3,CF,Y,4,Conference Final Loser,Conference 3 Seed,7
+4,Nashville Predators,West,Central,18,82,48,26,8,43,237,210,27,104,20112012,W4,R2,Y,3,Round 2 Loser,Conference 4 Seed,6
+5,Detroit Red Wings,West,Atlantic,17,82,48,28,6,39,248,203,45,102,20112012,W5,R1,Y,2,Round 1 Loser,Conference 5 Seed,5
+6,Chicago Blackhawks,West,Central,16,82,45,26,11,38,248,238,10,101,20112012,W6,R1,Y,2,Round 1 Loser,Conference 6 Seed,4
+7,San Jose Sharks,West,Pacific,28,82,43,29,10,34,228,210,18,96,20112012,W7,R1,Y,2,Round 1 Loser,Conference 7 Seed,3
+8,Los Angeles Kings,West,Pacific,26,82,40,27,15,34,194,179,15,95,20112012,W8,SCW,Y,6,Stanley Cup Winner,Conference 8 Seed,2
+9,Calgary Flames,West,Pacific,20,82,37,29,16,34,202,226,−24,90,20112012,NONE,NONE,N,1,NONE,NONE,0
+10,Dallas Stars,West,Central,25,82,42,35,5,35,211,222,−11,89,20112012,NONE,NONE,N,1,NONE,NONE,0
+11,Colorado Avalanche,West,Central,21,82,41,35,6,32,208,220,−12,88,20112012,NONE,NONE,N,1,NONE,NONE,0
+12,Minnesota Wild,West,Central,30,82,35,36,11,24,177,226,−49,81,20112012,NONE,NONE,N,1,NONE,NONE,0
+13,Anaheim Ducks,West,Pacific,24,82,34,36,12,31,204,231,−27,80,20112012,NONE,NONE,N,1,NONE,NONE,0
+14,Edmonton Oilers,West,Pacific,22,82,32,40,10,27,212,239,−27,74,20112012,NONE,NONE,N,1,NONE,NONE,0
+15,Columbus Blue Jackets,West,Metropolitan,29,82,29,46,7,25,202,262,−60,65,20112012,NONE,NONE,N,1,NONE,NONE,0
+1,Washington Capitals,East,Metropolitan,15,82,48,23,11,43,224,197,27,107,20102011,E1,R2,Y,3,Round 2 Loser,Conference 1 Seed,9
+2,Philadelphia Flyers,East,Metropolitan,4,82,47,23,12,44,259,223,36,106,20102011,E2,R2,Y,3,Round 2 Loser,Conference 2 Seed,8
+3,Boston Bruins,East,Atlantic,6,82,46,25,11,44,246,195,51,103,20102011,E3,SCW,Y,6,Stanley Cup Winner,Conference 3 Seed,7
+4,Pittsburgh Penguins,East,Metropolitan,5,82,49,25,8,39,238,199,39,106,20102011,E4,R1,Y,2,Round 1 Loser,Conference 4 Seed,6
+5,Tampa Bay Lightning,East,Atlantic,14,82,46,25,11,40,247,240,7,103,20102011,E5,CF,Y,4,Conference Final Loser,Conference 5 Seed,5
+6,Montreal Canadiens,East,Atlantic,8,82,44,30,8,41,216,209,7,96,20102011,E6,R1,Y,2,Round 1 Loser,Conference 6 Seed,4
+7,Buffalo Sabres,East,Atlantic,7,82,43,29,10,38,245,229,16,96,20102011,E7,R1,Y,2,Round 1 Loser,Conference 7 Seed,3
+8,New York Rangers,East,Metropolitan,3,82,44,33,5,35,233,198,35,93,20102011,E8,R1,Y,2,Round 1 Loser,Conference 8 Seed,2
+9,Carolina Hurricanes,East,Metropolitan,12,82,40,31,11,35,236,239,-3,91,20102011,NONE,NONE,N,1,NONE,NONE,0
+10,Toronto Maple Leafs,East,Atlantic,10,82,37,34,11,32,218,251,-33,85,20102011,NONE,NONE,N,1,NONE,NONE,0
+11,New Jersey Devils,East,Metropolitan,1,82,38,39,5,35,174,209,-35,81,20102011,NONE,NONE,N,1,NONE,NONE,0
+12,Atlanta Thrashers,East,Central,11,82,34,36,12,29,223,269,-46,80,20102011,NONE,NONE,N,1,NONE,NONE,0
+13,Ottawa Senators,East,Atlantic,9,82,32,40,10,30,192,250,-58,74,20102011,NONE,NONE,N,1,NONE,NONE,0
+14,New York Islanders,East,Metropolitan,2,82,30,39,13,26,229,264,-35,73,20102011,NONE,NONE,N,1,NONE,NONE,0
+15,Florida Panthers,East,Atlantic,13,82,30,40,12,26,195,229,-34,72,20102011,NONE,NONE,N,1,NONE,NONE,0
+1,Vancouver Canucks,West,Pacific,23,82,54,19,9,50,262,185,77,117,20102011,W1,SCL,Y,5,Stanley Cup Loser,Conference 1 Seed,9
+2,San Jose Sharks,West,Pacific,28,82,48,25,9,43,248,213,35,105,20102011,W2,CF,Y,4,Conference Final Loser,Conference 2 Seed,8
+3,Detroit Red Wings,West,Atlantic,17,82,47,25,10,43,261,241,20,104,20102011,W3,R2,Y,3,Round 2 Loser,Conference 3 Seed,7
+4,Anaheim Ducks,West,Pacific,24,82,47,30,5,43,239,235,4,99,20102011,W4,R1,Y,2,Round 1 Loser,Conference 4 Seed,6
+5,Nashville Predators,West,Central,18,82,44,27,11,38,219,194,25,99,20102011,W5,R2,Y,3,Round 2 Loser,Conference 5 Seed,5
+6,Phoenix Coyotes,West,Central,27,82,43,26,13,38,231,226,5,99,20102011,W6,R1,Y,2,Round 1 Loser,Conference 6 Seed,4
+7,Los Angeles Kings,West,Pacific,26,82,46,30,6,36,219,198,21,98,20102011,W7,R1,Y,2,Round 1 Loser,Conference 7 Seed,3
+8,Chicago Blackhawks,West,Central,16,82,44,29,9,38,258,225,33,97,20102011,W8,R1,Y,2,Round 1 Loser,Conference 8 Seed,2
+9,Dallas Stars,West,Central,25,82,42,29,11,37,227,233,-6,95,20102011,NONE,NONE,N,1,NONE,NONE,0
+10,Calgary Flames,West,Pacific,20,82,41,29,12,32,250,237,13,94,20102011,NONE,NONE,N,1,NONE,NONE,0
+11,St. Louis Blues,West,Central,19,82,38,33,11,34,240,234,6,87,20102011,NONE,NONE,N,1,NONE,NONE,0
+12,Minnesota Wild,West,Central,30,82,39,35,8,36,206,233,-27,86,20102011,NONE,NONE,N,1,NONE,NONE,0
+13,Columbus Blue Jackets,West,Metropolitan,29,82,34,35,13,29,215,258,-43,81,20102011,NONE,NONE,N,1,NONE,NONE,0
+14,Colorado Avalanche,West,Central,21,82,30,44,8,24,227,288,-61,68,20102011,NONE,NONE,N,1,NONE,NONE,0
+15,Edmonton Oilers,West,Pacific,22,82,25,45,12,23,193,269,-76,62,20102011,NONE,NONE,N,1,NONE,NONE,0

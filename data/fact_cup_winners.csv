@@ -1,0 +1,97 @@
+﻿season_year,Winning Team,Games,Losing Team,Winning Goal,WinningTeamId,LosingTeamId,WinningTeamGames,LosingTeamGames,NumGames,WinnerTakeAll
+2023,Vegas Golden Knights,4–1,Florida Panthers,Reilly Smith ,54,13,4,1,5,N
+2022,Colorado Avalanche,4–2,Tampa Bay Lightning,Artturi Lehkonen ,21,14,4,2,6,N
+2021,Tampa Bay Lightning,4–1,Montreal Canadiens,Dominique Ducharme ,14,8,4,1,5,N
+2020,Tampa Bay Lightning,4–2,Dallas Stars,Brayden Point ,14,25,4,2,6,N
+2019,St Louis Blues,4–3,Boston Bruins,Alex Pietrangelo ,19,6,4,3,7,Y
+2018,Washington Capitals,4–1,Vegas Golden Knights,Lars Eller ,15,54,4,1,5,N
+2017,Pittsburgh Penguins,4–3,Nashville Predators,Peter Laviolette,5,18,4,2,6,N
+2016,Pittsburgh Penguins,4–2,San Jose Sharks,Kris Letang ,5,28,4,2,6,N
+2015,Chicago Blackhawks,4–2,Tampa Bay Lightning,Duncan Keith ,16,14,4,2,6,N
+2014,Los Angeles Kings,4–1,New York Rangers,Alec Martinez ,26,3,4,1,5,N
+2013,Chicago Blackhawks,4–2,Boston Bruins,Dave Bolland ,16,6,4,2,6,N
+2012,Los Angeles Kings,4–2,New Jersey Devils,Jeff Carter ,26,1,4,2,6,N
+2011,Boston Bruins,4–3,Vancouver Canucks,Patrice Bergeron ,6,23,4,3,7,Y
+2010,Chicago Blackhawks,4–2,Philadelphia Flyers,Patrick Kane ,16,4,4,2,6,N
+2009,Pittsburgh Penguins,4–3,Detroit Red Wings,Maxime Talbot ,5,17,4,3,7,Y
+2008,Detroit Red Wings,4–2,Pittsburgh Penguins,Henrik Zetterberg ,17,5,4,2,6,N
+2007,Anaheim Ducks,4–1,Ottawa Senators,Travis Moen ,24,9,4,1,5,N
+2006,Carolina Hurricanes,4–3,Edmonton Oilers,Frantisek Kaberle ,12,22,4,3,7,Y
+2004,Tampa Bay Lightning,4–3,Calgary Flames,Ruslan Fedotenko ,14,20,4,3,7,Y
+2003,New Jersey Devils,4–3,Anaheim Ducks,Michael Rupp ,1,24,4,3,7,Y
+2002,Detroit Red Wings,4–1,Carolina Hurricanes,Brendan Shanahan ,17,12,4,1,5,N
+2001,Colorado Avalanche,4–3,New Jersey Devils,Alex Tanguay ,21,1,4,3,7,Y
+2000,New Jersey Devils,4–2,Dallas Stars,Jason Arnott ,1,25,4,2,6,N
+1999,Dallas Stars,4–2,Buffalo Sabres,Brett Hull ,25,7,4,2,6,N
+1998,Detroit Red Wings,4–0,Washington Capitals,Ron Wilson,17,15,4,0,4,N
+1997,Detroit Red Wings,4–0,Philadelphia Flyers,Darren McCarty ,17,4,4,0,4,N
+1996,Colorado Avalanche,4–0,Florida Panthers,Uwe Krupp ,21,13,4,0,4,N
+1995,New Jersey Devils,4–0,Detroit Red Wings,Neal Broten ,1,17,4,0,4,N
+1994,New York Rangers,4–3,Vancouver Canucks,Mark Messier ,3,23,4,3,7,Y
+1993,Montreal Canadiens,4–1,Los Angeles Kings,Kirk Muller ,8,26,4,1,5,N
+1992,Pittsburgh Penguins,4–0,Chicago Blackhawks,Ron Francis ,5,16,4,0,4,N
+1991,Pittsburgh Penguins,4–2,Dallas Stars,Ulf Samuelsson ,5,25,4,2,6,N
+1990,Edmonton Oilers,4–1,Boston Bruins,Craig Simpson ,22,6,4,1,5,N
+1989,Calgary Flames,4–2,Montreal Canadiens,Doug Gilmour ,20,8,4,2,6,N
+1988,Edmonton Oilers,4–0,Boston Bruins,Terry O'Reilly,22,6,4,0,4,N
+1987,Edmonton Oilers,4–3,Philadelphia Flyers,Jari Kurri ,22,4,4,3,7,Y
+1986,Montreal Canadiens,4–1,Calgary Flames,Bobby Smith ,8,20,4,1,5,N
+1985,Edmonton Oilers,4–1,Philadelphia Flyers,Mike Keenan,22,4,4,1,5,N
+1984,Edmonton Oilers,4–1,New York Islanders,Ken Linseman ,22,2,4,1,5,N
+1983,New York Islanders,4–0,Edmonton Oilers,Glen Sather,2,22,4,0,4,N
+1982,New York Islanders,4–0,Vancouver Canucks,Roger Neilson,2,23,4,0,4,N
+1981,New York Islanders,4–0,Dallas Stars,Glen Sonmor,2,25,4,0,4,N
+1980,New York Islanders,4–2,Philadelphia Flyers,Bob Nystrom ,2,4,4,2,6,N
+1979,Montreal Canadiens,4–1,New York Rangers,Fred Shero,8,3,4,1,5,N
+1978,Montreal Canadiens,4–2,Boston Bruins,Mario Tremblay ,8,6,4,2,6,N
+1977,Montreal Canadiens,4–0,Boston Bruins,Don Cherry,8,6,4,0,4,N
+1976,Montreal Canadiens,4–0,Philadelphia Flyers,Guy Lafleur ,8,4,4,0,4,N
+1975,Philadelphia Flyers,4–2,Buffalo Sabres,Floyd Smith,4,7,4,2,6,N
+1974,Philadelphia Flyers,4–2,Boston Bruins,Rick MacLeish ,4,6,4,2,6,N
+1973,Montreal Canadiens,4–2,Chicago Blackhawks,Yvan Cournoyer ,8,16,4,2,6,N
+1972,Boston Bruins,4–2,New York Rangers,Bobby Orr ,6,3,4,2,6,N
+1971,Montreal Canadiens,4–3,Chicago Blackhawks,Henri Richard ,8,16,4,3,7,Y
+1970,Boston Bruins,4–0,St Louis Blues,Bobby Orr ,6,19,4,0,4,N
+1969,Montreal Canadiens,4–0,St Louis Blues,Serge Savard,8,19,4,0,4,N
+1968,Montreal Canadiens,4–0,St Louis Blues,J. C. Tremblay ,8,19,4,0,4,N
+1967,Toronto Maple Leafs,4–2,Montreal Canadiens,Jim Pappin ,10,8,4,2,6,N
+1966,Montreal Canadiens,4–2,Detroit Red Wings,Sid Abel,8,17,4,2,6,N
+1965,Montreal Canadiens,4–3,Chicago Blackhawks,Jean Beliveau ,8,16,4,3,7,Y
+1964,Toronto Maple Leafs,4–3,Detroit Red Wings,Andy Bathgate ,10,17,4,3,7,Y
+1963,Toronto Maple Leafs,4–1,Detroit Red Wings,Sid Abel,10,17,4,1,5,N
+1962,Toronto Maple Leafs,4–2,Chicago Blackhawks,Dick Duff ,10,16,4,2,6,N
+1961,Chicago Blackhawks,4–2,Detroit Red Wings,Ab McDonald ,16,17,4,2,6,N
+1960,Montreal Canadiens,4–0,Toronto Maple Leafs,Jean Beliveau ,8,10,4,0,4,N
+1959,Montreal Canadiens,4–1,Toronto Maple Leafs,Punch Imlach,8,10,4,1,5,N
+1958,Montreal Canadiens,4–2,Boston Bruins,Bernie Geoffrion ,8,6,4,2,6,N
+1957,Montreal Canadiens,4–1,Boston Bruins,Milt Schmidt,8,6,4,1,5,N
+1956,Montreal Canadiens,4–1,Detroit Red Wings,Maurice Richard ,8,17,4,1,5,N
+1955,Detroit Red Wings,4–3,Montreal Canadiens,,17,8,4,3,7,Y
+1954,Detroit Red Wings,4–3,Montreal Canadiens,Tony Leswick ,17,8,4,3,7,Y
+1953,Montreal Canadiens,4–1,Boston Bruins,Elmer Lach ,8,6,4,1,5,N
+1952,Detroit Red Wings,4–0,Montreal Canadiens,,17,8,4,0,4,N
+1951,Toronto Maple Leafs,4–1,Montreal Canadiens,Bill Barilko ,10,8,4,1,5,N
+1950,Detroit Red Wings,4–3,New York Rangers,Pete Babando ,17,3,4,3,7,Y
+1949,Toronto Maple Leafs,4–0,Detroit Red Wings,Cal Gardner ,10,17,4,0,4,N
+1948,Toronto Maple Leafs,4–0,Detroit Red Wings,Tommy Ivan,10,17,4,0,4,N
+1947,Toronto Maple Leafs,4–2,Montreal Canadiens,Ted Kennedy ,10,8,4,2,6,N
+1946,Montreal Canadiens,4–1,Boston Bruins,Toe Blake ,8,6,4,1,5,N
+1945,Toronto Maple Leafs,4–3,Detroit Red Wings,Babe Pratt ,10,17,4,3,7,Y
+1944,Montreal Canadiens,4–0,Chicago Blackhawks,Toe Blake ,8,16,4,0,4,N
+1943,Detroit Red Wings,4–0,Boston Bruins,Joe Carveth ,17,6,4,0,4,N
+1942,Toronto Maple Leafs,4–3,Detroit Red Wings,Pete Langelle ,10,17,4,3,7,Y
+1941,Boston Bruins,4–0,Detroit Red Wings,Bobby Bauer ,6,17,4,0,4,N
+1940,New York Rangers,4–2,Toronto Maple Leafs,,3,10,4,2,6,N
+1939,Boston Bruins,4–1,Toronto Maple Leafs,,6,10,4,1,5,N
+1938,Chicago Blackhawks,3–1,Toronto Maple Leafs,Carl Voss ,16,10,3,1,4,N
+1937,Detroit Red Wings,3–2,New York Rangers,Lester Patrick,17,3,3,2,5,Y
+1936,Detroit Red Wings,3–1,Toronto Maple Leafs,,17,10,3,1,4,N
+1935,Montreal Canadiens,3–0,Toronto Maple Leafs,Dick Irvin,8,10,3,0,3,N
+1934,Chicago Blackhawks,3–1,Detroit Red Wings,Mush March ,16,17,3,1,4,N
+1933,New York Rangers,3–1,Toronto Maple Leafs,Bill Cook ,3,10,3,1,4,N
+1932,Toronto Maple Leafs,3–0,New York Rangers,Ace Bailey ,10,3,3,0,3,N
+1931,Montreal Canadiens,3–2,Chicago Blackhawks,Dick Irvin,8,16,3,2,5,Y
+1930,Montreal Canadiens,2–0,Boston Bruins,Howie Morenz ,8,6,2,0,2,N
+1929,Boston Bruins,2–0,New York Rangers,Bill Carson ,6,3,2,0,2,N
+1928,New York Rangers,3–2,Montreal Canadiens,Frank Boucher ,3,8,3,2,5,Y
+1927,Ottawa Senators,2–0,Boston Bruins,Cy Denneny ,9,6,2,0,2,N
