@@ -800,7 +800,7 @@ def display_header(selected_team):
                             # TEXT
                         ]),
                 ])
-            ]), color=sec_color
+            ]), color=bg_color
         )
 
     return footer_output
