@@ -484,8 +484,8 @@ def create_corr_matrix(data):
 
 ######### INIT APP #####################################################################################################################################
 ########################################################################################################################################################
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.MATERIA])
-server = app.server
+my_app = dash.Dash(__name__, external_stylesheets=[dbc.themes.MATERIA])
+server = my_app.server
 
 ######### CREATE HTML ELEMENTS #########################################################################################################################
 ########################################################################################################################################################
@@ -627,7 +627,7 @@ scatter_coef = dbc.CardGroup([
 
 ######### CREATE APP #########################################################################################################################
 ##############################################################################################################################################
-app.layout = html.Div([
+my_app.layout = html.Div([
     dbc.Card(
         dbc.CardBody([
 
@@ -692,7 +692,7 @@ app.layout = html.Div([
 ####################################################################################################################################################
 
 # ---- HEADER --------------------------------------------------------------------------------------------------------------------------------
-@app.callback(Output('header_output', 'children'),
+@my_app.callback(Output('header_output', 'children'),
               Input('team_dropdown', 'value'))
 def display_header(selected_team):
     # IF TEAM IS SELECTED
@@ -751,7 +751,7 @@ def display_header(selected_team):
 
 
 # ---- FOOTER --------------------------------------------------------------------------------------------------------------------------------
-@app.callback(Output('footer_output', 'children'),
+@my_app.callback(Output('footer_output', 'children'),
               Input('team_dropdown', 'value'))
 def display_header(selected_team):
     # IF TEAM IS SELECTED
@@ -804,7 +804,7 @@ def display_header(selected_team):
 
 
 # ---- MAIN CALLBACK --------------------------------------------------------------------------------------------------------------------------------
-@app.callback(Output('bar_graph_output', 'figure'),
+@my_app.callback(Output('bar_graph_output', 'figure'),
               Output('cup_winners_output', 'children'),
               Output('playoff_hm_output', 'figure'),
               Input('team_dropdown', 'value'),
@@ -948,7 +948,7 @@ def display_main_graph(selected_team, selected_year, selected_conference):
 
 
 # ---- SCATTER CALLBACK --------------------------------------------------------------------------------------------------------------------------------
-@app.callback(Output('scatter_output', 'children'),
+@my_app.callback(Output('scatter_output', 'children'),
               Output('corr_output', 'children'),
               Input('team_dropdown', 'value'),
               Input('year-slider', 'value'),
@@ -1064,7 +1064,7 @@ def display_scatter(selected_team, selected_year, selected_conference, selected_
 
 
 # ---- STANDINGS --------------------------------------------------------------------------------------------------------------------------------
-@app.callback(Output('standings_output', 'children'),
+@my_app.callback(Output('standings_output', 'children'),
               Input('year-slider', 'value'),
               Input('team_dropdown', 'value'),
               Input('conference_dropdown', 'value'))
@@ -1203,7 +1203,7 @@ def display_standings(selected_year, selected_team, selected_conference):
 
 
 # ---- DROP DOWN CHAINED --------------------------------------------------------------------------------------------------------------------------------
-@app.callback(Output('team_dropdown', 'options'),
+@my_app.callback(Output('team_dropdown', 'options'),
               Input('conference_dropdown', 'value'))
 def conf_div_team_options(chosen_conf):
     if chosen_conf == 'all_values':
@@ -1221,7 +1221,7 @@ def conf_div_team_options(chosen_conf):
 ######### RUN APP #########################################################################################################################
 ###########################################################################################################################################
 if __name__ == "__main__":
-    app.run_server(debug=False, port=8069)
+    my_app.run_server(debug=False, port=8069)
 
 
 
