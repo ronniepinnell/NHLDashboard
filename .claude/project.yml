@@ -1,5 +1,7 @@
 project:
   owner_repo: ronniepinnell/NHLDashboard
+services:
+  ci: github-actions
 stack:
   languages:
     - python
