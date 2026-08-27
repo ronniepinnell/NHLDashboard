@@ -1,0 +1,5 @@
+project:
+  owner_repo: ronniepinnell/NHLDashboard
+stack:
+  languages:
+    - python
